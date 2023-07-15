@@ -66,7 +66,7 @@ nav ul li{
 }
 
 .icons{
-    margin-top: 14px; 
+    margin-top: 60px; 
 }
 .icons i{
     cursor: pointer;
@@ -82,7 +82,7 @@ nav ul li{
 }
 
 .songItem{
-    height: 50px;
+    height: 100px;
     display: flex;
     background-color: white;
     
